@@ -38,8 +38,8 @@ Cost of the solution: 116
 0404
 ⋮
 ```
-## Running the program
-To run the program in a terminal, simply enter:
+## Usage
+Clone this repository to your local machine and navigate to the project directory. Run the solver with your preferred input puzzle with the following command.
 ```
 python3 main.py  <input file>  <DFS output file>  <A* output file>
 ```
